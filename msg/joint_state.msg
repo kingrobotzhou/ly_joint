@@ -1,0 +1,8 @@
+std_msgs/Header header
+float32 ActualPosDgree
+float32 ActuVelocityRPM
+float32 ActualTorqueNm
+float32 MessureToqueNm
+float32 TarPosDegree
+float32 InitPosDegree
+
